@@ -1,0 +1,2 @@
+method overriding:
+  consider two classes A (parent)& B(child). both of these classes contain a function void show. on creating the object, the method show from the child class is used if the object is of the child class, totally overriding the method in A (parent class). this is metho overriding 
